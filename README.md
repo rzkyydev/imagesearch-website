@@ -1,6 +1,6 @@
 # Image Search
 
-this project use npmjs [`Ikyy`](https://npmjs.com/Ikyy)
+this project use npmjs [`Ikyy`](https://www.npmjs.com/package/ikyy)
 
 ## How To Running ?
 
