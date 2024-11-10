@@ -14,4 +14,4 @@
 
 Thanks To: 
  
-- [`Rizky878`](https://github.com/Rizky878)
+- [`rzkyydev`](https://github.com/rzkyydev)
